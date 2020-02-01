@@ -1,8 +1,8 @@
 {
   "name": "ResetEvolutionPollution",
   "description": "Reset evolution, clear pollution, and kill all active enemies.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "title": "Reset Evolution and Pollution",
   "author": "Strath",
-  "factorio_version": "0.17"
+  "factorio_version": "0.18"
 }
