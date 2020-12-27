@@ -1,4 +1,4 @@
-require("mod-gui")
+local mod_gui = require("mod-gui")
 
 function doit(player)
 	for _, surface in pairs (game.surfaces) do surface.clear_pollution() end
